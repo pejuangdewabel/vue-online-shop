@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5">
-            <div class="footer-left">
+            <div class="footer-left text-left">
               <div class="footer-logo">
                 <a href="#"
                   ><img src="img/logo_website_shayna_white.png" alt=""
@@ -24,7 +24,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 offset-lg-1">
+          <div class="col-lg-3 offset-lg-1 text-left">
             <div class="footer-widget">
               <h5>Information</h5>
               <ul>
@@ -35,7 +35,7 @@
               </ul>
             </div>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-3 text-left">
             <div class="footer-widget">
               <h5>My Account</h5>
               <ul>
